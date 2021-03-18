@@ -415,3 +415,32 @@ ul.list-footer {
     }
 }
 
+
+.contact-form form{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 500px;
+}
+.contact-form .form-group .form-control{
+    display: block;
+    width: 100%;
+    padding: 5px 8px;
+}
+.contact-form .form-group .btn{
+    width: 100px;
+    text-transform: uppercase;
+    color:#fff;
+    background-color: #000032;
+    border:none;
+    font-weight: 500;
+    padding: 5px 0;
+    border-radius: 10px;
+}
+.contact-form .form-group textarea.form-control{
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 150px;
+}

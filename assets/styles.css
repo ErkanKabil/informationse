@@ -303,6 +303,12 @@ ul.list-footer {
     border-radius: 30px;
     box-shadow: inset 0 0 40px #c9d7d8;
 }
+
+.contact-form form{
+        margin: 0 auto;
+    
+}
+
 .frise {
     display: none;
 }

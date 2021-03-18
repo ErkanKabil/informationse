@@ -3,7 +3,11 @@
     $lang = array(
         "page_title" => ( empty($x_page_title) ) ? "Service de Conciergerie" : $x_page_title,
         'company_name' => "JMF technology LTD", 
-        'tos_text' => "Conditions générales d'utilisation",
+        'tos_text' => "Politique De Confidentialite",
+        'tos_text_2' => "Mentions Légales",
+        'tos_text_3' => "À Propos De",
+        'tos_text_4' => "Contact",
+        'tos_text_5' => "Intimité",
         'text_1' => (! empty($_GET['keyword']) ) ? "Contacter le ".$_GET['keyword'] : "Contacter le Service Client",
         'phone_number_1' => $aff['phone_number_1'], 
         'phone_number_2' => $aff['phone_number_2'], 

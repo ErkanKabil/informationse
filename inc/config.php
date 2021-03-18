@@ -1,4 +1,4 @@
 <?php
 
-define('DEFAULT_COUNTRY', 'du');
+define('DEFAULT_COUNTRY', 'be');
 define('GOOGLE_TAG', '');
