@@ -32,7 +32,7 @@
             });
         </script>
 
-        <section class="s-header">
+        <section class="start_header">
             <div class="container">
                 <a href="#" class="frise">
 	                <i class="fas fa-phone-volume"></i><?=$lang['text_1']?>
@@ -43,17 +43,15 @@
                 </a>
                 <div class="row">
                     <div class="col-md-6 col-sm-8 col-md-offset-6 col-sm-offset-4">
-                        <p class="sur-logo"><i class="fas fa-phone-volume"></i>
+                        <p class="title_main"><i class="fas fa-phone-volume"></i>
                              <?=$lang['text_1']?> 
                         </p>
                          <h1><a href="tel:<?=$lang['phone_number_1']?><?=$lang['phone_number_2']?>" class="a-logo hidden-xs"> 
                              <?=$lang['phone_number_1']?> <span><?=$lang['phone_number_2']?></span> 
                         </a></h1>
                         <a href="tel:<?=$lang['phone_number']?>" class="btn-appeler-mobile hidden-sm hidden-md hidden-lg"><i class="fas fa-phone-volume"></i><?=$lang['phone_number']?></a>
-                        <p class="disclaimer-header" style="background-color: rgba(0, 0, 0, 0.7); margin: 2rem 0;">
-                            <?=$lang['price']?> <?=$lang['per_min']?>  
-                        </p>
-                        <p class="slog-header">
+                    
+                        <p class="desc-header">
                             <strong>
                                  <?=$lang['banner_text_1']?> 
                             </strong>
