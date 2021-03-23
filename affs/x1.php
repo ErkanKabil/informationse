@@ -10,9 +10,9 @@
 
     if ( $country == 'be' && $lang_file == 'fr' ) {
         $aff = array(
-            'phone_number_1' => "0904", 
-            'phone_number_2' => "88 621", 
-            'phone_number' => "0904 88 621", 
+            'phone_number_1' => "0901", 
+            'phone_number_2' => "02 1120", 
+            'phone_number' => "0901 02 1120", 
         );
     }
 
@@ -34,9 +34,9 @@
 
     if ( $country == 'du' && $lang_file == 'nl' ) {
         $aff = array(
-            'phone_number_1' => "0904", 
-            'phone_number_2' => "88 537", 
-            'phone_number' => "0904 88 537", 
+            'phone_number_1' => "0907", 
+            'phone_number_2' => "55 572", 
+            'phone_number' => "0907 55 572", 
         );
     }
 
