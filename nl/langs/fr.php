@@ -2,7 +2,7 @@
 
     $lang = array(
         "page_title" => ( empty($x_page_title) ) ? "Service de Conciergerie" : $x_page_title,
-        'company_name' => "myworldinfo.xyz", 
+        'company_name' => "JMF technology LTD", 
         'tos_text' => "Politique De Confidentialite",
         'tos_text_2' => "Mentions Légales",
         'tos_text_3' => "À Propos De",

@@ -18,7 +18,7 @@
         </ul>
     <p>Il suffit pour cela de nous contacter aux coordonnées suivantes :</p>
         <ul>
-        <li>par mail : contact [@] myworldinfo.xyz </li>
+        <li>par mail : contact [@] jmftechnology.com</li>
         <li>par téléphone : <?=$lang['phone_number']?></li>
         </ul>
     <h3>Politique de cookies</h3>

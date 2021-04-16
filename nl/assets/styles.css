@@ -87,6 +87,8 @@ a.a-2 {
     animation-name: bouton_scale;
     animation-duration: 1.5s;
     animation-iteration-count: infinite;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+
 }
 .a-logo:hover {
     color: #000032;
