@@ -2,7 +2,7 @@
 
     $lang = array(
         "page_title" => ( empty($x_page_title) ) ? "Telefonnummer des Kundendienstes" : $x_page_title,
-        "company_name" => "JMF Technology LTD",
+        "company_name" => "infoacademy.club",
         'tos_text' => "Geschäftsbedingungen",
         'text_1' => (! empty($_GET['keyword']) ) ? "Für ".$_GET['keyword']." kontaktieren Sie uns" :  "    Für Kundenservice Sie uns",
         "phone_number_1" => $aff['phone_number_1'], 

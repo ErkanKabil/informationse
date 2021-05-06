@@ -2,7 +2,7 @@
 
     $lang = array(
         "page_title" => ( empty($x_page_title) ) ? "Telefoonnummer  van de klantenservice" : $x_page_title,
-        "company_name"=> "JMF technology LTD", 
+        "company_name"=> "infoacademy.club", 
         'tos_text' => "Voorwaarden",
         'tos_text_2' => "Juridische kennisgeving",
         'tos_text_3' => "Over Ons",

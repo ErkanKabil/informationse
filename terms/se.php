@@ -19,7 +19,7 @@
         </ul>
         <p>Allt du behöver göra är att kontakta oss på följande koordinater: </p>
         <ul>
-            <li>per post: kontakta [@] jmftechnology.com</li>
+            <li>per post: kontakta [@] infoacademy.club</li>
             <li>via telefon: <?=$lang['phone_number']?></li>
         </ul>
     <h3>Cookies policy</h3>

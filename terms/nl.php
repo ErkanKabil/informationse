@@ -39,7 +39,7 @@ Vertrouwelijkheid</h2>
 
 </p>
         <ul>
-        <li>per post: neem contact op met [@] jmftechnology.com
+        <li>per post: neem contact op met [@] infoacademy.club
 </li>
         <li>per telefoon: <?=$lang['phone_number']?></li>
         </ul>

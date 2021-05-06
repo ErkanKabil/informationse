@@ -10,7 +10,6 @@
                             <a href="tos.php"><?=$lang['tos_text']?></a> |
                             <a href="mentions_legales.php"><?=$lang['tos_text_2']?></a> |
                         </p>
-                        <h5 style="text-align: center;color: #ddd;"> Marketing company : JMF TECHNOLOGY LTD </h4>
                         <div class="hr-2"></div>
                     </div>
                 </div>

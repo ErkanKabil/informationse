@@ -2,9 +2,13 @@
 
     $lang = array(
         "page_title" => ( empty($x_page_title) ) ? "Kontakta Kundservice" : $x_page_title,
-        'company_name' => "JMF technology LTD", 
-        'tos_text' => "Conditions générales d'utilisation",
-        'text_1' => (! empty($_GET['keyword']) ) ? "Contacter le ".$_GET['keyword'] : "Contacter le Service Client",
+        'company_name' => "infoacademy.club", 
+        'tos_text' => "Integritetspolicy",
+        'tos_text_2' => "Rättsligt meddelande",
+        'tos_text_3' => "Handla om",
+        'tos_text_4' => "Kontakt",
+        'tos_text_5' => "Integritet",
+        'text_1' => (! empty($_GET['keyword']) ) ? "Kontakta Kundservice ".$_GET['keyword'] : "Kontakta Kundservice",
         'phone_number_1' => $aff['phone_number_1'], 
         'phone_number_2' => $aff['phone_number_2'], 
         'phone_number' => $aff['phone_number'], 
